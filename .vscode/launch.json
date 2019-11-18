@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ServerlessApplication",
+            "request": "launch",
+            "mainClass": "com.serverless.rest.restapi.ServerlessApplication",
+            "projectName": "restapi"
+        }
+    ]
+}
