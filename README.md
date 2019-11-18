@@ -6,7 +6,7 @@ AWSLambdaWithSpringBoot - No Spring JPA
  1. Quick Starter Project for those who like to see how Maven + Spring Boot + AWS Lambda + API Gateway works
  2. As a whole, its a way to try Serverless Architecture using Java
 
-# Pr-requisites
+# Pre-requisites
 
  1. Java 8 and Maven
  3. AWS Account
